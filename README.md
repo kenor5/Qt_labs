@@ -11,5 +11,7 @@ lab4 - 2d tree
 
 lab5 - cuckoo hash
 
+lab6 - boggle game
+
 
 lab manual is under "lab*/spec"
